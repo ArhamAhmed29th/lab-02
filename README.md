@@ -1,7 +1,7 @@
 CMPUT 301: Lab 2 Participation Exercise
 Student Details
 Full Name: Arham Ahmed
-CCID: arham4@ualberta.ca
+CCID: arham4
 References and Resources
 List any resources used here, or simply put N/A if not applicable.
 
